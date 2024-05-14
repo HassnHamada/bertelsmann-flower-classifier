@@ -1,0 +1,6 @@
+jpg/*
+segmim/*
+flowers/*
+**/*.tgz
+**/*.mat
+**/*.tar.gz
